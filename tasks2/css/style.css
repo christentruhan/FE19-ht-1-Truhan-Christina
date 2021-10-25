@@ -1,0 +1,9 @@
+@import url('../css/section2style.css');
+.section{width: 1170px;padding: 0px 15px;}
+.title{font-size: 36px;width: 1170px;height: 150px;
+    margin: auto;
+text-align: center;}
+.block{background-color: aqua;width: 170px;height: 1px;margin: auto;margin-top: -70px;}
+.text{font-size: 18px;width: 1169px;height: 21px;margin: auto;text-align: center;margin-bottom: 40px;}
+
+
